@@ -1,0 +1,6 @@
+absl-py==0.10.0
+astor==0.8.1
+protobuf==3.13.0
+PyYAML==5.3.1
+six==1.15.0
+tensorflow-docs===0.0.0d522e325039fbc2f6c77da1d5632affe634fd0e8-
